@@ -2,3 +2,6 @@
 # Microsoft states that this should not be in source control :)
 # Refs: https://msdn.microsoft.com/en-us/library/bb165909.aspx
 *.suo
+
+# These files changes on every debug run in visual studio :) lets get rid af that shit.
+App1/bin/x64/Debug/
