@@ -1,1 +1,0 @@
-C:\Visual Studio Projects H5\App1\App1\ServerViewApp.csproj;x86

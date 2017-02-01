@@ -1,1 +1,0 @@
-C:\Visual Studio Workspaces\serverViewApp\App1\App1.csproj;x64
