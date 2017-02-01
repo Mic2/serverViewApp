@@ -4,4 +4,4 @@
 *.suo
 
 # These files changes on every debug run in visual studio :) lets get rid af that shit.
-App1/bin/x64/Debug/
+App1/bin/
