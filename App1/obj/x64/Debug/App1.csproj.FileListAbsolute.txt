@@ -1,5 +1,9 @@
+C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\App.g.i.cs
+C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\App.g.cs
+C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\App.xaml
+C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\App.xbf
 C:\Visual Studio Workspaces\serverViewApp\App1\bin\x64\Debug\App.xbf
-C:\Visual Studio Workspaces\serverViewApp\App1\bin\x64\Debug\MainPage.xbf
+C:\Visual Studio Workspaces\serverViewApp\App1\bin\x64\Debug\View\MainPage.xbf
 C:\Visual Studio Workspaces\serverViewApp\App1\bin\x64\Debug\App1.xr.xml
 C:\Visual Studio Workspaces\serverViewApp\App1\bin\x64\Debug\App1.exe
 C:\Visual Studio Workspaces\serverViewApp\App1\bin\x64\Debug\App1.pdb
@@ -227,15 +231,11 @@ C:\Visual Studio Workspaces\serverViewApp\App1\bin\x64\Debug\System.Xml.ReaderWr
 C:\Visual Studio Workspaces\serverViewApp\App1\bin\x64\Debug\System.Xml.XDocument.dll
 C:\Visual Studio Workspaces\serverViewApp\App1\bin\x64\Debug\System.Xml.XmlDocument.dll
 C:\Visual Studio Workspaces\serverViewApp\App1\bin\x64\Debug\System.Xml.XmlSerializer.dll
-C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\App.g.i.cs
-C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\App.g.cs
-C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\MainPage.g.i.cs
-C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\MainPage.g.cs
+C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\View\MainPage.g.i.cs
+C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\View\MainPage.g.cs
 C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\XamlTypeInfo.g.cs
-C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\App.xaml
-C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\MainPage.xaml
-C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\App.xbf
-C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\MainPage.xbf
+C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\View\MainPage.xaml
+C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\View\MainPage.xbf
 C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\XamlSaveStateFile.xml
 C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\App1.exe
 C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\App1.pdb
@@ -421,4 +421,3 @@ C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\Core\Assets\Wide310
 C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\Core\App1.xr.xml
 C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\Core\WinMetadata\Windows.winmd
 C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\Core\resources.pri
-C:\Visual Studio Workspaces\serverViewApp\App1\obj\x64\Debug\App1.csprojResolveAssemblyReference.cache
