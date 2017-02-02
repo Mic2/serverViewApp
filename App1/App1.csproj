@@ -98,6 +98,8 @@
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Model\Harddisk.cs" />
+    <Compile Include="Model\Server.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModel\DalManager.cs" />
   </ItemGroup>
@@ -128,7 +130,11 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Folder Include="Model\" />
+=======
+    <Folder Include="ViewModel\" />
+>>>>>>> refs/remotes/origin/master
     <Folder Include="View\" />
   </ItemGroup>
   <ItemGroup>
