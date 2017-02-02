@@ -130,11 +130,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Folder Include="Model\" />
-=======
-    <Folder Include="ViewModel\" />
->>>>>>> refs/remotes/origin/master
     <Folder Include="View\" />
   </ItemGroup>
   <ItemGroup>
