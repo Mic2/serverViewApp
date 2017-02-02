@@ -9,13 +9,13 @@ namespace App1.Model
     class Harddisk
     {
         string driveLetter;
-        string mbSize;
+        long mbSize;
         public string DriveLetter
         {
             get {return driveLetter;}
             set{driveLetter = value;}
         }
-        public string MbSize
+        public long MbSize
         {
             get{return mbSize;}
             set{mbSize = value;}

@@ -1,1 +1,1 @@
-C:\Visual Studio Projects H5\App1\App1\ServerViewApp.csproj;x86
+D:\FIle Shares\Dropbox\Rene\Skole\serverViewApp\App1\App1.csproj;x86
