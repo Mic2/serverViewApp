@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
+using System.Data;
 
 namespace App1.ViewModel
 {
@@ -13,7 +14,9 @@ namespace App1.ViewModel
         private static DalManager _instance = null;
 
         private DalManager()
-        { }
+        {
+
+        }
 
         public static DalManager Instance
         {
@@ -26,6 +29,9 @@ namespace App1.ViewModel
                 return _instance;
             }
         }
+
+        //NOTE: change '(localdb)\Test_env' to the server and db on remote
+        private string dbCon = @"Data Source=(localdb)\Test_env;Initial Catalog=Test_db;Integrated Security=True";
 
         //retive data and send it to the requester
         public string GetName()
